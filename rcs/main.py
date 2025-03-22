@@ -31,4 +31,4 @@ if __name__ == '__main__':
         print(e)
     
     finally:
-        print('Execução na main finaliza!!!')
+        print('Execução na main finalizada!!!')
