@@ -2,7 +2,7 @@
 import requests
 
 
-def Fazer_requisicao_get(vurl: str, vparams :dict = None, vheaders: dict = None) -> dict:  
+def extract(vurl: str, vparams :dict = None, vheaders: dict = None) -> dict:  
     """_summary_
 
     Args:
